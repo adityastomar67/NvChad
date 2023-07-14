@@ -9,7 +9,7 @@ g.toggle_theme_icon = "   "
 g.transparency = config.ui.transparency
 
 -------------------------------------- options ------------------------------------------
-opt.laststatus = 3 -- global statusline
+opt.laststatus = 0 -- global statusline
 opt.showmode = false
 
 opt.clipboard = "unnamedplus"
