@@ -26,6 +26,7 @@ opt.fillchars = { eob = " " }
 opt.ignorecase = true
 opt.smartcase = true
 opt.mouse = "a"
+opt.cmdheight = 0
 
 -- Numbers
 opt.number = true
