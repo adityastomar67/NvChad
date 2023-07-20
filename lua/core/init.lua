@@ -29,6 +29,7 @@ opt.mouse = "a"
 opt.cmdheight = 0
 
 -- Numbers
+opt.relativenumber = true
 opt.number = true
 opt.numberwidth = 2
 opt.ruler = false
